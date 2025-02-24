@@ -6,14 +6,13 @@
 
 ---
 
-
-<br><br> <!-- 두 줄 공백 추가 -->
+<br><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooo73&layout=donut&exclude_repo=rlasuddn.github.io&theme=gotham" />
 </p>
 
-<br><br> <!-- 두 줄 공백 추가 -->
+<br> 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,18 +22,17 @@
 
 <br>
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwooo73&count_bg=%44bef7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+<p>
 
 <p align="center">
-</p>
-
-<p align="center">
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwooo73&count_bg=%44bef7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-    </a>&nbsp;
-    <a href="mailto:ywaves073@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ywaves073@gmail.com" />
-    </a>
-</p>
+  <a href="mailto:ywaves073@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ywaves073@gmail.com"/>
+  </a>
+<p>
 
 <!--
 참고 자료
